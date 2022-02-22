@@ -1,0 +1,187 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The antient manner of electing sheriffs of London and Middlesex and other officers yearly, at the Guild-Hall on the 24th of June, offered to the consideration of all sober citizens, &amp;c.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A25339</idno>
+            <idno type="STC">Wing A3071</idno>
+            <idno type="STC">ESTC R214335</idno>
+            <idno type="EEBO-CITATION">99826528</idno>
+            <idno type="PROQUEST">99826528</idno>
+            <idno type="VID">30931</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A25339)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 30931)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1841:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The antient manner of electing sheriffs of London and Middlesex and other officers yearly, at the Guild-Hall on the 24th of June, offered to the consideration of all sober citizens, &amp;c.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1695]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sheriffs --  England --  Early works to 1800.</term>
+               <term>London (England) --  Politics and government --  Early works to 1800.</term>
+               <term>London (England) --  Social life and customs --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:30931:1"/>
+            <head>The Antient Manner of Electing Sheriffs of <hi>London</hi> and <hi>Middleſex,</hi> and other Officers Yearly, at the <hi>Guild-Hall</hi> on the <hi>24th</hi> of <hi>June,</hi> offered to the Conſideration of <hi>all ſober</hi> Citizens, <hi>&amp;c.</hi>
+            </head>
+            <p>A SHERIFF is an Officer of great Antiquity, high Authority and Truſt, having from the King the Cuſtody and Government of the whole County committed to him. My Lord <hi>Coke</hi> upon <hi>Lit.</hi> (pag. 168) ſaith, that the Sheriff hath <hi>triplicem Cuſtodiam, viz. Vitae Juſtitiae,</hi> to ſerve Proceſs, and to return indifferent Juries for the Trial of Mens Lives, Liberties, Lands and Goods: <hi>Vitae Legis,</hi> to execute Proceſs and make Execution, which is the Life of the Law; and <hi>Vitae Reipublicae,</hi> to keep the Peace, <hi>&amp;c.</hi> He is partly a Judicial, and partly a Miniſterial Officer; and by the Statute 5 <hi>Edw.</hi> 6. <hi>cap.</hi> 16. it is provided, that none may bargain or fell any Office, if the Office con<g ref="char:EOLhyphen"/>cern the Adminiſtration or Execution of Juſtice. By the 12 <hi>Ri.</hi> 2d. it is provided, that the Chancellor, Treaſurer, Keeper of Privy Seal, Lord Steward, King's Chamberlain, Clerk of the Rolls, Juſtices of the Benches, Barons of the Exchequer, and all others, called to name and ordain Juſtices of Peace, Sheriffs, <hi>&amp;c.</hi> ſhall be ſworn that they ſhall not make or or<g ref="char:EOLhyphen"/>dain any ſuch for any Gift or Brocage, Favour or Affection, <hi>&amp;c.</hi> but that they make all ſuch Officers and Miniſters of the beſt and moſt lawful and ſufficient Men in their Judg<g ref="char:EOLhyphen"/>ments: Thus carefully hath our Law provided for the free and equal Adminiſtration and Execution of Juſtice all over <hi>England.</hi>
+            </p>
+            <p>Now to come to the Antient Uſage and Practice of Elect<g ref="char:EOLhyphen"/>ing Sheriffs in <hi>London</hi> for that City and the County of <hi>Mid<g ref="char:EOLhyphen"/>dleſex, Midſummer</hi> Day, on what Day of the Week ſo<g ref="char:EOLhyphen"/>ever it fell, was uſed to be the Day for Electing two Sheriffs for the City of <hi>London</hi> and County of <hi>Middleſex,</hi> until <hi>June</hi> 15. 1694. when it was by Common-Council enacted and provided, that whenſoever <hi>Midſummer</hi> Day ſhall happen to be on the Lord's Day, commonly called <hi>Sunday,</hi> that the Election of Sheriffs, <hi>&amp;c.</hi> ſhall be on the next Day follow<g ref="char:EOLhyphen"/>ing. Accordingly the Lord-Mayor hath conſtantly ſent out Precepts of Summons; the laſt of which follows in theſe Words.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>By the MAYOR.</head>
+                  <p>
+                     <hi>To the Maſter and Wardens of the Company of Theſe are in his Maieſty's Name to require you, that you give notice to the Livery of your Company, that on Monday next, being the</hi> 24th <hi>Inſtant, at Eight of the Clock in the Forenoon, They aſſemble and come to the</hi> Guild-Hall <hi>in the uſual manner, there to elect Sheriffs and other Officers, cuſtomarily choſen on that Day.</hi>
+                  </p>
+                  <closer>
+                     <dateline>Dated <date>this 20th <hi>of</hi> June 1695.</date>
+                     </dateline> 
+                     <signed>GOODFELLOW.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>The Maſter and Wardens, in Obedience to the Precepts from the Lord-Mayor, order their Beadles to deliver to the Livery-men of their reſpective Companies, in a printed Form, to the Purport following, <hi>viz.</hi>
+            </p>
+            <p>
+               <hi>Sir, On Monday the</hi> 24th <hi>of</hi> June 1695. <hi>you are deſired, by the Maſter and Wardens of the Worſhipful Company of</hi> London, <hi>to meet at</hi> Guild-hall, <hi>at</hi> 9 <hi>of the Clock in the Morning, in your Livery-Gown, for the Election of Sheriffs,</hi> &amp;c. <hi>to ſerve the City of</hi> London <hi>for the Year en<g ref="char:EOLhyphen"/>ſuing.</hi> N. H. <hi>Beadle.</hi>
+            </p>
+            <p>When the ſeveral Liveries are met together in the <hi>Guild-Hall,</hi> the 24th of <hi>June:</hi> About 11 or 12 of the Clock the Hall is then uſually full, containing about 3000 Perſons, be<g ref="char:EOLhyphen"/>ſides great Numbers that are in other Places near at hand, to Poll if occaſion require. After 2 or 3 cries, <hi>A Hall, a Hall,</hi> to give notice to the Lord-Mayor that the Aſſembly are rea<g ref="char:EOLhyphen"/>dy; The Mayor, Aldermen and Sheriffs come out of the Council-Chamber, with the City-Sword and Mace carried before them, and go to the <hi>Huſtings</hi> at the upper end of the Hall. When the Lord-Mayor is there ſeated in his Chair, and the Aldermen are alſo ſeated, the Sword laid down be<g ref="char:EOLhyphen"/>fore his Lordſhip, the Common Crier of the City, with his Mace before him, by order makes three loud <hi>O Yes's,</hi> and from an Officer dictating to him, goes on to this Pur<g ref="char:EOLhyphen"/>port, <hi>viz. You good Men of the Liveries of this City, ſum<g ref="char:EOLhyphen"/>moned to appear here this Day, for the Election of Sheriffs, and other Officers of this City for the Year enſuing, draw near and attend to your Election. God ſave the King.</hi> Then he further by order pronounces, with a loud Voice; <hi>All you that are not of the Livery, depart the Hall upon pain of Impriſonment.</hi> This done, the Recorder riſes from his Seat, and moves towards the Edg of the <hi>Huſtings;</hi> and firſt turns about towards the Lord-Mayor and Aldermen, and bows; and then towards the Livery-men, and bows; then he makes an Eloquent and Learned Speech to them, of the great Privileges and high Truſts repoſed and veſted in them by many Kings and Parliaments, and particularly in allowing them the free Choice of their Sheriff; and lear<g ref="char:EOLhyphen"/>nedly explains to them the high Authority, both Judicial and Miniſterial of that Antient Officer; and exhorts them to take great Care to make choice of wiſe, honeſt, and able Men for that Office, which ſo much concerns the Security, Peace and Safety of the City, their Lives, Liberties, Eſtates and Poſterity: And ſometimes puts them in mind of the fatal Miſchiefs that have happened when bad Men have got into that Office. After this the Lord-Mayor and Alder<g ref="char:EOLhyphen"/>men riſe and go up to the Council-Chamber, having the Sword carried before them, but not the Mace, it being pla<g ref="char:EOLhyphen"/>ced before the Common Crier on the middle of the <hi>Hu<g ref="char:EOLhyphen"/>ſtings.</hi> Then the Sheriffs with the Common Serjeant, move to the edg of the <hi>Huſtings,</hi> where the Common Serjeant makes another Speech to the Livery-men, reminding them what the Recorder had already ſaid, and enlargeth thereon, to ſhew to them the great Privileges, high Truſts, excellent Liberties granted to them, exhorting them to chuſe ho<g ref="char:EOLhyphen"/>neſt and able Men: And at laſt deſires them to give him the Names of ſuch Perſons as they would have put up in Nomi<g ref="char:EOLhyphen"/>nation for the Vote of the Common-Hall for Sheriffs, <hi>&amp;c.</hi>
+            </p>
+            <p>When they have given the Names of all the Perſons they would have put in Nomination, the Common Serjeant ſaith, <hi>Gentlemen, I will read to you the Names of the Perſons that you have put in nomination for Sheriffs.</hi> Then after he hath au<g ref="char:EOLhyphen"/>dibly read the ſame, he ſaith, <hi>Gentlemen, Will you have a<g ref="char:EOLhyphen"/>ny more Perſons put in nomination for Sheriffs?</hi> If they cry, <hi>No, no,</hi> the Common Crier, with his Mace before him, ſtanding near the Edg on the middle of the <hi>Huſtings,</hi> (three other Officers ſtanding on convenient Places along to the other End of the Hall, to take the Proclamation one from the other, that all the Aſſembly may diſtinctly hear) begins, being as before dictated to by the Officer, <hi>viz. So many of you as will have</hi> — A. B. <hi>Mercer — to be one of the Sheriffs for the City of</hi> London, <hi>and County of</hi> Mid<g ref="char:EOLhyphen"/>dleſex <hi>for the Year enſuing, Hold up your Hands?</hi> Theſe Words being repeated by the three aforeſaid Officers. When all the Names of thoſe put in Nomination have been ſeverally put up to the Common-Hall in manner as afore<g ref="char:EOLhyphen"/>ſaid; the Sheriffs do conſult betwixt themſelves, and the Common Serjeant declares their Opinions on whom the E<g ref="char:EOLhyphen"/>lection hath fall'n: and if it be clear and apparent, they do declare it by their Officers to the Common-Hall; if any Doubt be, 'tis put up again to the Common-Hall betwixt thoſe Perſons where the Doubt lies: If ſtill there be any diſ<g ref="char:EOLhyphen"/>ſatisfaction, 'tis put up again and again; and at laſt if a Poll be demanded, 'tis always granted, and then 6 or 8 Books are provided, and two Livery-men deſired to overlook the Clerks at each Book, and to examine the Qualification of the Pollers, where the Mayor and Aldermen poll as Livery<g ref="char:EOLhyphen"/>men and no otherwiſe. When the Poll is over, the Books are caſt up with great exactneſs; And if any Candidate or other Perſon be unſatisfied, and demand a Scrutiny of the Poll, it muſt be granted; and then the Lord-Mayor uſeth to ſend his Precept to the Maſters and Wardens of the ſeveral Livery Companies in theſe words, <hi>viz.</hi>
+            </p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <signed>
+                        <hi>Stamp</hi> Mayor,</signed> 
+                     <dateline>
+                        <date>
+                           <hi>Jovis die,</hi> &amp;c.</date>
+                     </dateline>
+                  </opener>
+                  <p>
+                     <hi>It is ordered by this Court, that every Clerk of the ſeveral Livery Companies of this City, do return the Names of the ſeveral Livery<g ref="char:EOLhyphen"/>Men of their reſpective Companies Alphabetically, on or before Tueſ<g ref="char:EOLhyphen"/>day next, upon Oath to be made by the ſaid Clerks before the Right Honourable the Lord Mayor, or this Court.</hi>
+                  </p>
+                  <closer>
+                     <signed>GOODFELLOW.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>Which Liſts are delivered afterwards to ſuch as are ap<g ref="char:EOLhyphen"/>pointed to examine and ſcrutin<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the Poll-Books. Theſe two Circumſtances following have uſed to unqualify one that hath been of the Livery of this City: Firſt, if he have ſo faln to Decay, that he hath had back his Livery-Fine; or ſecondly (though he hath not had back his Livery-Fine) in Caſe he be a Penſioner. After a full Examination and Scru<g ref="char:EOLhyphen"/>tiny the Books are again carefully caſt up, and then the Poll upon Scrutiny is declared for the due Election of them that have the Majority of Votes. Nor is any Common-Council<g ref="char:EOLhyphen"/>man allowed to poll unleſs he be of the Livery, nor any Li<g ref="char:EOLhyphen"/>very-man unleſs he be a Freeman: So exact and ſolemn hath the Election of Sheriffs for the City of <hi>London</hi> and County of <hi>Middleſex</hi> uſed to be, to the Peace, Honour and Safety of the ſaid City and County for above 200 Years.</p>
+            <p>The Reverend Judges in the 40th and 41ſt of <hi>Eliz.</hi> upon mature Deliberation, did conclude, that this antient Uſage
+<pb facs="tcp:30931:2" rendition="simple:additions"/>in Elections (though no Record thereof could be ſhewn) came at firſt from common Aſſent, and was therefore well warranted by Law and their Charters.</p>
+            <p>It may be obſerved, that when Sheriffs were choſe by the <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, none but Freeholders were to chooſe, as being Men of Subſtance in the County, in imitation whereof our wiſe Predeceſſors in this City did ordain that none but ſuch as were of Subſtance ſhould come upon the Liveries, to elect Sheriffs, <hi>&amp;c.</hi>
+            </p>
+            <p>And whereas <hi>London</hi> is now ſwell'd much beyond its Wards; ſo that near one half of the Citizens of <hi>London</hi> do live out of any of the Wards of the City, who do all con<g ref="char:EOLhyphen"/>ſtantly pay ſcot and bear lot in their reſpective Companies, and are at like Charge and Service in attending the Lord Mayor, and on other ſolemn Occaſions, for the Wealth and Honour of the City, and are as liable to ſerve the Office of Sheriffs; <hi>&amp;c.</hi> as thoſe that live within the Wards, (as may appear by Mr. <hi>Clark,</hi> Mr. <hi>Langham,</hi> &amp;c. laſt Year, who were induced to pay Fines to be diſcharged from holding the Office of Sheriff, though they lived in diſtant Counties) and have for ſome hundreds of Years conſtantly repreſented in Com<g ref="char:EOLhyphen"/>mon-Hall their Fellow-Citizens, (for theſe Purpoſes) who are in no wiſe repreſented by the Common-Council of <hi>London,</hi> who are only choſen by the Freemen within the Wards: The Lord Mayor and Aldermen will, no doubt (be<g ref="char:EOLhyphen"/>fore they undertake to undo what themſelves have ſo ſo<g ref="char:EOLhyphen"/>lemnly acted in conjunction with the Liveries that are about 6 or 7 thouſand) conſider of the Warrantableneſs as well as the Juſtneſs thereof.</p>
+            <p>Beſides the Judges Opinions in 40 and 41 <hi>Eliz.</hi> there is a Caſe recorded <hi>lib. H. fol.</hi> 45. in the 50th of <hi>Edward</hi> the IIId, where <hi>Richard Lyons</hi> Alderman of <hi>Breadſtreet</hi>-Ward, <hi>John Peche</hi> Alderman of <hi>Walbrook</hi>-Ward, <hi>Adam Bury</hi> Alderman of <hi>Langborn</hi>-Ward, were all disfranchited, and put out of their Offices for Irregularities in the ſame, and afterwards ſe<g ref="char:EOLhyphen"/>verely puniſhed. It is hoped the Common-Council of the City will look back (upon this Intimation) that in an Act of Common-Council, made in the Mayoralty of Sir <hi>William Pritchard,</hi> theſe Words are contained, being part of a Re<g ref="char:EOLhyphen"/>port of the then Committee, <hi>viz. We have ſeen ſeveral En<g ref="char:EOLhyphen"/>tries in the Journal of this Court;</hi> (inter alia) Jan. 24, 1644. <hi>It was declared by the Mayor and Aldermen, that they had a negative Voice in Common-Council by the anient Cuſtom and Charters of this City: and we having alſo ſeen the Opinions of divers learned Counſels heretofore given to the Court of Aldermen under their Hands,</hi> viz. <hi>the preſent L. C. J.</hi> Pem<g ref="char:EOLhyphen"/>berton, <hi>Sir</hi> William Dolbin, <hi>Serjeant</hi> Maynard, <hi>Sir</hi> Willi<g ref="char:EOLhyphen"/>am Jones, <hi>Sir</hi> G. Jefferies, <hi>and Sir</hi> Fr. Winington, <hi>That the Lord Mayor and Aldermen have a negative Voice in making Laws and Orders, and admitting of Officers in Com<g ref="char:EOLhyphen"/>mon Council, we humbly propound (to take away all Diſputes in this matter for the time to come) that the ſame may have the Approbation and Concurrence of this honour able Court. Subſcribed</hi> William Turner, James Edwards, John Moor, Henry Tulce, Tho. Langham, Fr. Griffith, Nath. Hawes, Hen. Loades, Peter Ailworth, Nic. Charlton, Tho. Vernon.</p>
+            <p>After reading of which Report here openly in this Court, the ſame was by this Court (in the ſeveral Particulars there<g ref="char:EOLhyphen"/>of) well approved of, and agreed to and confirmed. 'Tis conceived this ought to have been repealed as well as the other Clauſes that were therein repealed, 15 <hi>June,</hi> 1694.</p>
+            <p>The many Inconveniencies that the negative Voice afore<g ref="char:EOLhyphen"/>ſaid (which is contrary to Law and Reaſon) may produce, canſt eaſily be foreſeen.</p>
+            <p>It may not be amiſs to put the Common-Council-men in mind to examine why theſe Words in the Sheriffs Oath are left off, viz. <hi>Ye ſhall alſo ſwear that ye ſhall freely give all fit<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h Rooms and Offices of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>jeants and Yeomen as ſhall hap<g ref="char:EOLhyphen"/>pen to become void during be time ye ſhall remain in Office of Shrievalty, to ſuch apt and able Perſon or Perſons as ſhall be by you nominated to the Lord Mayor and Court of Aldermen, and by them admitted without any Money or other Reward, to be had, taken, or hoped for, in reſpect thereof, according to the Act of Common-Council made and provided in that behalf the</hi> 29th <hi>of</hi> April, <hi>in the</hi> 26th <hi>Year of the Reign of our Sove<g ref="char:EOLhyphen"/>reign Lady Queen</hi> Elizabeth, <hi>&amp;c.</hi> So God you help.</p>
+            <p>If thoſe Common-Council-men (many being otherwiſe inclin<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d) that have been ſo ready to imbrace Fines to diſcharge Sheriffs, <hi>&amp;c.</hi> this way from the Obligation of their Offices, and have openly declared that in 44 Years they have raiſed above 150000 <hi>l.</hi> would heartily join with others that are againſt it, and would diligently ſearch out Concealments, Appropriations, Withdrawings, and Miſapplications of the City's Revenues, they might in a ſhort time find out an ho<g ref="char:EOLhyphen"/>nourable and plentiful Income to maintain the Government thereof, which they are doubly obliged to by then Oaths of Freemen and Common-Council-men.</p>
+            <p>King <hi>Edward</hi> III, in the 15th Year of his Reign granted to the Mayor and Commonalty to make Ordinances (with this Proviſo) ſo as they were not prejudicial to the Citizens, nor to other his Leige People; from whence this Queſtion may be made: If <hi>A. B.</hi> Common-Council man ſhall make Agreement that for 400 <hi>l C. D.</hi> (already duly elected to and charged with the Sinievalty) ſhall be thereof diſcharged: And afterwards <hi>E. F.</hi> Livery-man, living in <hi>Weſtminſter,</hi> is choſe into that chargeable Office by the Vote and Poll of the ſaid <hi>A. B. Quaere,</hi> whether <hi>E. F.</hi> may not maintain an Acti<g ref="char:EOLhyphen"/>on againſt <hi>A. B.</hi> Common-Council-man, for his Damages herein ſuſtained? It was ſaid of Old <hi>Rome,</hi> that her Citizens ſpread themſelves over the whole World: It may be ſaid of <hi>London,</hi> her Citizens ſpread themſelves over all <hi>England;</hi> and no doubt but <hi>London</hi> is knit in League with the reſt of the Realm, (ſome peculiar Cuſtoms excepted) and no Laws there made can be valid that thwart their Charters, or the Laws of the Land: which, with what hath been already publiſhed, may ſerve for Anſwer to all that hath hitherto been alledged in Vindication of the Mayor, Aldermen, and Common-Council in their late Proceedings in Common-Hall. If any one ſtill be in any doubt, let him, for his full Satisfaction, read over the Act of Parliament for reſto<g ref="char:EOLhyphen"/>ring the City's Charter. If the King ſhould propoſe to diſ<g ref="char:EOLhyphen"/>charge his Appointments of Sheriffs in the Counties at a de<g ref="char:EOLhyphen"/>clared certain rate, he might raiſe great Sums of Money that way, but 'tis believed it would not be grateful to the Parlia<g ref="char:EOLhyphen"/>ment, who may probably take Cognizance of this Affair for the Example's ſake.</p>
+            <p>Fellow-Citizens; You were told by the Recorder, that the Lord Mayor and Aldermen would take care of your Pri<g ref="char:EOLhyphen"/>vileges, you will certainly think them as ſafe in your own Hands as any where elſe; and by your conſtant adhering to your former Choice, as by your Oath you are obliged, you will manifeſt to the World you are worthy of ſo high a Truſt repoſed in you, as the free Election of Sheriffs for the City of <hi>London</hi> and County of <hi>Middleſex,</hi> which is a Truſt that no ingenuous Citizen but ſhould abhor to abuſe. The Lord Mayor and Aldermen (notwithſtanding all the Vindicator and Dialogue-maker have ſaid) will doubtleſs weigh the Ci<g ref="char:EOLhyphen"/>ty's Charters, Acts of Parliament, and other Laws and Cu<g ref="char:EOLhyphen"/>ſtoms of this City and Nation in the Balance with it, and the ſeveral Solemnities of Precepts, Summons, Polls, and Scru<g ref="char:EOLhyphen"/>tinies, <hi>&amp;c.</hi> leſt By-ſtanders ſhould interpret them all mere Pageantries, if 7 or 8 Aldermen may afterwards make them all void, under colour of By-laws, made in the late Arbi<g ref="char:EOLhyphen"/>trary Times, which are made null and void by the Act of Parliament of 2 <hi>William</hi> and <hi>Mary,</hi> for reſtoring to the Ci<g ref="char:EOLhyphen"/>tizens of <hi>London</hi> all their Rights, Liberties, Charters, <hi>&amp;c.</hi> which Act is to be reputed a publick Act of Parliament, and to be ſo taken notice of by the Judges, as if relating to the whole Kingdom. Tho ſome Men of arrogating and ar<g ref="char:EOLhyphen"/>bitrary Humours have contemptuouſly termed the Common-Hall a <hi>Mob,</hi> and ſaid that its Inſolence muſt be curb'd, you, by your ſober and ſettled Conſtancy to your Point, will the ſooneſt convince them of the Falſeneſs of that Imputation, that you are neither Mob nor inſolent, but reſolved to de<g ref="char:EOLhyphen"/>pend for Redreſs on your Parliaments and Laws. You need not be put in mind what Endeavours ſome have uſed by Feaſtings and Careſſes of proper Inſtruments to wheedle and induce them, to perſwade the Citizens not to inſiſt on their Rights at this time, the King being out of the Land. But thoſe Perſons ought to take notice, that the Steadineſs and Loyalty of the Common-Hall to King <hi>William</hi> and his Go<g ref="char:EOLhyphen"/>vernment, has ſounded throughout this Kingdom, and is and will be a Terror to all thoſe that are Enemies to their Country: now to abridg thoſe Citizens in their free Electi<g ref="char:EOLhyphen"/>ons, is the moſt effectual Way to render them unſerviceable to his Majeſty and Kingdom in this moſt important Affair, and to bring in ſuch Magiſtrates as are diſaffected to the pre<g ref="char:EOLhyphen"/>ſent Government. The <hi>Midſummer</hi> elected Sheriffs that are pretended to have paid their Fines, have done ſo on condition the Common-Hall ſhall agree to it; foraſmuch as by their proceeding to a freſh Choice they tacitly conſent to the Diſ<g ref="char:EOLhyphen"/>charge of the two former: The Engliſh whereof is, that the Common-Hall do make another Election of two others, and ſo work their Diſcharge that way, which if they ſhould do, it may give colour for a Forfeiture of their Charters and Privi<g ref="char:EOLhyphen"/>leges, which every Citizen is ſolemnly ſwom to avoid. Thus much has been thought convenient to be ſaid as to Matter of Fact and Caution thereupon, the Matter in Law may be ex<g ref="char:EOLhyphen"/>pected to come to hand in a little time.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
